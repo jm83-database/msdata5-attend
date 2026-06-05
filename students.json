@@ -337,6 +337,14 @@
     },
     {
         "id": 43,
+        "name": "최유리",
+        "present": false,
+        "code": "",
+        "timestamp": null,
+        "password": "1325"
+    },
+    {
+        "id": 44,
         "name": "최형찬",
         "present": false,
         "code": "",
@@ -344,7 +352,7 @@
         "password": "2117"
     },
     {
-        "id": 44,
+        "id": 45,
         "name": "한영수",
         "present": false,
         "code": "",
