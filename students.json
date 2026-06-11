@@ -25,14 +25,6 @@
     },
     {
         "id": 4,
-        "name": "김민재",
-        "present": false,
-        "code": "",
-        "timestamp": null,
-        "password": "1353"
-    },
-    {
-        "id": 5,
         "name": "김보련",
         "present": false,
         "code": "",
@@ -40,7 +32,7 @@
         "password": "2700"
     },
     {
-        "id": 6,
+        "id": 5,
         "name": "김이레",
         "present": false,
         "code": "",
@@ -48,7 +40,7 @@
         "password": "1567"
     },
     {
-        "id": 7,
+        "id": 6,
         "name": "김인수",
         "present": false,
         "code": "",
@@ -56,7 +48,7 @@
         "password": "6342"
     },
     {
-        "id": 8,
+        "id": 7,
         "name": "김종현",
         "present": false,
         "code": "",
@@ -64,7 +56,7 @@
         "password": "5663"
     },
     {
-        "id": 9,
+        "id": 8,
         "name": "김지수",
         "present": false,
         "code": "",
@@ -72,7 +64,7 @@
         "password": "9924"
     },
     {
-        "id": 10,
+        "id": 9,
         "name": "김진우",
         "present": false,
         "code": "",
@@ -80,7 +72,7 @@
         "password": "3284"
     },
     {
-        "id": 11,
+        "id": 10,
         "name": "김창연",
         "present": false,
         "code": "",
@@ -88,7 +80,7 @@
         "password": "4754"
     },
     {
-        "id": 12,
+        "id": 11,
         "name": "김현수",
         "present": false,
         "code": "",
@@ -96,7 +88,7 @@
         "password": "2432"
     },
     {
-        "id": 13,
+        "id": 12,
         "name": "김현호",
         "present": false,
         "code": "",
@@ -104,7 +96,7 @@
         "password": "1087"
     },
     {
-        "id": 14,
+        "id": 13,
         "name": "민찬기",
         "present": false,
         "code": "",
@@ -112,7 +104,7 @@
         "password": "5073"
     },
     {
-        "id": 15,
+        "id": 14,
         "name": "박준성",
         "present": false,
         "code": "",
@@ -120,7 +112,7 @@
         "password": "6240"
     },
     {
-        "id": 16,
+        "id": 15,
         "name": "박준용",
         "present": false,
         "code": "",
@@ -128,7 +120,7 @@
         "password": "8447"
     },
     {
-        "id": 17,
+        "id": 16,
         "name": "박형준",
         "present": false,
         "code": "",
@@ -136,7 +128,7 @@
         "password": "0440"
     },
     {
-        "id": 18,
+        "id": 17,
         "name": "백승민",
         "present": false,
         "code": "",
@@ -144,7 +136,7 @@
         "password": "9183"
     },
     {
-        "id": 19,
+        "id": 18,
         "name": "백준혁",
         "present": false,
         "code": "",
@@ -152,7 +144,7 @@
         "password": "3823"
     },
     {
-        "id": 20,
+        "id": 19,
         "name": "백채원",
         "present": false,
         "code": "",
@@ -160,7 +152,7 @@
         "password": "9907"
     },
     {
-        "id": 21,
+        "id": 20,
         "name": "소윤일",
         "present": false,
         "code": "",
@@ -168,7 +160,7 @@
         "password": "7358"
     },
     {
-        "id": 22,
+        "id": 21,
         "name": "손성진",
         "present": false,
         "code": "",
@@ -176,7 +168,7 @@
         "password": "2893"
     },
     {
-        "id": 23,
+        "id": 22,
         "name": "신동엽",
         "present": false,
         "code": "",
@@ -184,7 +176,7 @@
         "password": "9639"
     },
     {
-        "id": 24,
+        "id": 23,
         "name": "신민철",
         "present": false,
         "code": "",
@@ -192,7 +184,7 @@
         "password": "7968"
     },
     {
-        "id": 25,
+        "id": 24,
         "name": "신승준",
         "present": false,
         "code": "",
@@ -200,7 +192,7 @@
         "password": "7428"
     },
     {
-        "id": 26,
+        "id": 25,
         "name": "신찬규",
         "present": false,
         "code": "",
@@ -208,7 +200,7 @@
         "password": "6761"
     },
     {
-        "id": 27,
+        "id": 26,
         "name": "안수빈",
         "present": false,
         "code": "",
@@ -216,7 +208,7 @@
         "password": "3020"
     },
     {
-        "id": 28,
+        "id": 27,
         "name": "양유진",
         "present": false,
         "code": "",
@@ -224,7 +216,7 @@
         "password": "6290"
     },
     {
-        "id": 29,
+        "id": 28,
         "name": "양지영",
         "present": false,
         "code": "",
@@ -232,7 +224,7 @@
         "password": "6090"
     },
     {
-        "id": 30,
+        "id": 29,
         "name": "윤현섭",
         "present": false,
         "code": "",
@@ -240,7 +232,7 @@
         "password": "0954"
     },
     {
-        "id": 31,
+        "id": 30,
         "name": "이나경",
         "present": false,
         "code": "",
@@ -248,7 +240,7 @@
         "password": "4133"
     },
     {
-        "id": 32,
+        "id": 31,
         "name": "이승은",
         "present": false,
         "code": "",
@@ -256,7 +248,7 @@
         "password": "0531"
     },
     {
-        "id": 33,
+        "id": 32,
         "name": "이재은",
         "present": false,
         "code": "",
@@ -264,12 +256,20 @@
         "password": "3150"
     },
     {
-        "id": 34,
+        "id": 33,
         "name": "이종옥",
         "present": false,
         "code": "",
         "timestamp": null,
         "password": "1633"
+    },
+    {
+        "id": 34,
+        "name": "이주현",
+        "present": false,
+        "code": "",
+        "timestamp": null,
+        "password": "1353"
     },
     {
         "id": 35,
