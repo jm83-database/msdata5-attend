@@ -331,8 +331,13 @@ def download_attendance_csv():
         # CSV 헤더 작성
         csv_writer.writerow(['날짜', '학생ID', '이름', '출석여부', '출석코드', '출석시간'])
 
-        # 모든 출석 기록을 CSV 형식으로 변환 (삭제된 학생 제외)
+        # 오늘 날짜 (UTC+9 한국 시간)
+        today = (datetime.datetime.now() + datetime.timedelta(hours=9)).strftime("%Y-%m-%d")
+
+        # 오늘 날짜의 출석 기록만 CSV 형식으로 변환 (삭제된 학생 제외)
         for record in attendance_records:
+            if record.get('date', '') != today:
+                continue
             date = record.get('date', '')
             for student in record.get('students', []):
                 # 현재 활성화된 학생 ID 목록에 있는 학생만 포함
